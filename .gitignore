@@ -61,3 +61,8 @@ go
 Changes
 build1[012]
 analyze
+build1[01]
+*.vim
+*.viminfo
+list
+patch
