@@ -62,7 +62,7 @@ Changes
 build1[012]
 analyze
 build1[01]
+list
 *.vim
 *.viminfo
-list
 patch

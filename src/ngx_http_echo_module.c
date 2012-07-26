@@ -208,7 +208,7 @@ static ngx_command_t  ngx_http_echo_commands[] = {
       offsetof(ngx_http_echo_loc_conf_t, status),
       NULL },
 
-      ngx_null_command
+     ngx_null_command
 };
 
 
